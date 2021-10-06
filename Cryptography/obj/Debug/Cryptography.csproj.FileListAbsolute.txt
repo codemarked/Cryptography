@@ -1,0 +1,7 @@
+C:\Users\Gion\source\repos\Cryptography\Cryptography\bin\Debug\Cryptography.exe.config
+C:\Users\Gion\source\repos\Cryptography\Cryptography\bin\Debug\Cryptography.exe
+C:\Users\Gion\source\repos\Cryptography\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\Gion\source\repos\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.AssemblyReference.cache
+C:\Users\Gion\source\repos\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Gion\source\repos\Cryptography\Cryptography\obj\Debug\Cryptography.exe
+C:\Users\Gion\source\repos\Cryptography\Cryptography\obj\Debug\Cryptography.pdb
